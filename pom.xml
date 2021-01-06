@@ -6,7 +6,6 @@
     
     
     
-    
     <parent>
         <artifactId>spring-boot-starter-parent</artifactId>
         <groupId>org.springframework.boot</groupId>
